@@ -12,7 +12,7 @@
 	<artifactId>gitops-demo-webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gitops-demo-webapp</name>
-	<description>Demo project for learning GitOps admin work</description>
+	<description>HHAIII Demo project for learning GitOps admin work</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
